@@ -1,4 +1,4 @@
-# 🎓 Hibernate Student Management System
+# 🎓 Hibernate Student Management System Hands-on
 
 A simple **Hibernate ORM Project** in Java that demonstrates how to map objects to relational database tables, perform CRUD operations, use HQL & Criteria API, and manage relationships.
 
