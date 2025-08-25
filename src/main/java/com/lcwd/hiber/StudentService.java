@@ -18,7 +18,7 @@ public class StudentService {
 
     private SessionFactory sessionFactory = HibernateUtil.getSessionFactory();
 
-    // save
+    
     public void saveStudent(Student student) {
         try (Session session = sessionFactory.openSession()) {
             Transaction beginTransaction = session.beginTransaction();
