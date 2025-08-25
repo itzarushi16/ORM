@@ -107,7 +107,7 @@ public class Student {
     // helper method to remove certificate
     public void removeCertificate(Certificate certificate) {
         certificates.remove(certificate);     
-        certificate.setStudent(null);         // unlink kar do
+        certificate.setStudent(null);       
     }
 
  
