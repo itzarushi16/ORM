@@ -80,7 +80,7 @@ public class Certificate {
         this.grade = grade;
     }
 
-    // ✅ Missing methods added
+  
     public Student getStudent() {
         return student;
     }
