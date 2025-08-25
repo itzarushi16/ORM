@@ -100,7 +100,7 @@ public class Student {
     // helper method to add certificate
  // helper method to add certificate
     public void addCertificate(Certificate certificate) {
-        certificates.add(certificate);        // list me add kar do
+        certificates.add(certificate);     
         certificate.setStudent(this);         // certificate ka student set kar do (back reference)
     }
 
