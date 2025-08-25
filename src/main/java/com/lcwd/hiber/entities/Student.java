@@ -101,7 +101,7 @@ public class Student {
  // helper method to add certificate
     public void addCertificate(Certificate certificate) {
         certificates.add(certificate);     
-        certificate.setStudent(this);         // certificate ka student set kar do (back reference)
+        certificate.setStudent(this);        
     }
 
     // helper method to remove certificate
