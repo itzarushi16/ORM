@@ -98,7 +98,7 @@ public class Student {
     }
 
     // helper method to add certificate
- // helper method to add certificate
+
     public void addCertificate(Certificate certificate) {
         certificates.add(certificate);     
         certificate.setStudent(this);        
