@@ -10,9 +10,6 @@ import com.lcwd.hiber.entities.Certificate;
 
 public class HibernateUtil {
     private static SessionFactory sessionFactory;
-
-
-
     
     static {
         try {
