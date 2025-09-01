@@ -25,7 +25,6 @@ It connects Java classes (`Student`, `Certificate`) to a relational database (e.
 - Handle lazy loading exceptions
 
 ---
-
 ## 🏗️ Tech Stack
 - **Java** (JDK 8+)
 - **Hibernate ORM** (5.x / 6.x)
