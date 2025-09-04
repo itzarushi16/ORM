@@ -7,6 +7,7 @@ import jakarta.persistence.*;
 public class Certificate {
     
 
+    
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long certificateId;
