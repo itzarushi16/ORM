@@ -8,6 +8,7 @@ A simple **Hibernate ORM Project** in Java that demonstrates how to map objects 
 This project is a **Student Management System** built using **Hibernate ORM**.  
 It connects Java classes (`Student`, `Certificate`) to a relational database (e.g., MySQL) and demonstrates:
 
+
 - Entity mapping using annotations
 - One-to-Many relationship (Student → Certificates)
 - CRUD operations
