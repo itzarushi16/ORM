@@ -6,8 +6,6 @@ import jakarta.persistence.*;
 @Table(name = "students_certificate")
 public class Certificate {
     
-
-    
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long certificateId;
