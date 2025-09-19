@@ -3,8 +3,6 @@
 A simple **Hibernate ORM Project** in Java that demonstrates how to map objects to relational database tables, perform CRUD operations, use HQL & Criteria API, and manage relationships.
 
 ---
-
-
 ## 📌 Project Overview
 This project is a **Student Management System** built using **Hibernate ORM**.  
 It connects Java classes (`Student`, `Certificate`) to a relational database (e.g., MySQL) and demonstrates:
